@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="45055" started-at="2020-07-30T17:48:40Z" finished-at="2020-07-30T17:49:25Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="45055" started-at="2020-07-30T17:48:40Z" finished-at="2020-07-30T17:49:25Z">
+      <class name="airspace_qa_challenge.regression.test.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="setUp" is-config="true" duration-ms="7390" started-at="2020-07-30T10:48:40Z" finished-at="2020-07-30T10:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testingLogoutAfterSuccessfulLogin()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="testingLogoutAfterSuccessfulLogin" duration-ms="1305" started-at="2020-07-30T10:48:48Z" finished-at="2020-07-30T10:48:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingLogoutAfterSuccessfulLogin -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="cleanUp" is-config="true" duration-ms="173" started-at="2020-07-30T10:48:49Z" finished-at="2020-07-30T10:48:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="setUp" is-config="true" duration-ms="5590" started-at="2020-07-30T10:48:49Z" finished-at="2020-07-30T10:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testingSuccessfulLogin()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="testingSuccessfulLogin" duration-ms="967" started-at="2020-07-30T10:48:55Z" finished-at="2020-07-30T10:48:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingSuccessfulLogin -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="cleanUp" is-config="true" duration-ms="143" started-at="2020-07-30T10:48:56Z" finished-at="2020-07-30T10:48:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="setUp" is-config="true" duration-ms="6061" started-at="2020-07-30T10:48:56Z" finished-at="2020-07-30T10:49:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testingToCheckMaskedPassword()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="testingToCheckMaskedPassword" duration-ms="824" started-at="2020-07-30T10:49:02Z" finished-at="2020-07-30T10:49:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingToCheckMaskedPassword -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="cleanUp" is-config="true" duration-ms="100" started-at="2020-07-30T10:49:03Z" finished-at="2020-07-30T10:49:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="setUp" is-config="true" duration-ms="6380" started-at="2020-07-30T10:49:03Z" finished-at="2020-07-30T10:49:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testingUnsuccessfulLoginWithDataProvider(java.lang.String, java.lang.String)[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="testingUnsuccessfulLoginWithDataProvider" duration-ms="860" started-at="2020-07-30T10:49:09Z" data-provider="loginData" finished-at="2020-07-30T10:49:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingUnsuccessfulLoginWithDataProvider -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="cleanUp" is-config="true" duration-ms="345" started-at="2020-07-30T10:49:10Z" finished-at="2020-07-30T10:49:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="setUp" is-config="true" duration-ms="6165" started-at="2020-07-30T10:49:11Z" finished-at="2020-07-30T10:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testingUnsuccessfulLoginWithDataProvider(java.lang.String, java.lang.String)[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="testingUnsuccessfulLoginWithDataProvider" duration-ms="1019" started-at="2020-07-30T10:49:17Z" data-provider="loginData" finished-at="2020-07-30T10:49:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aaa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SuperSecretPassword!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingUnsuccessfulLoginWithDataProvider -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="cleanUp" is-config="true" duration-ms="222" started-at="2020-07-30T10:49:18Z" finished-at="2020-07-30T10:49:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="setUp" is-config="true" duration-ms="5937" started-at="2020-07-30T10:49:18Z" finished-at="2020-07-30T10:49:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testingUnsuccessfulLoginWithDataProvider(java.lang.String, java.lang.String)[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="testingUnsuccessfulLoginWithDataProvider" duration-ms="1217" started-at="2020-07-30T10:49:24Z" data-provider="loginData" finished-at="2020-07-30T10:49:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tomsmith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingUnsuccessfulLoginWithDataProvider -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:airspace_qa_challenge.regression.test.LoginTest@4411d970]" name="cleanUp" is-config="true" duration-ms="311" started-at="2020-07-30T10:49:25Z" finished-at="2020-07-30T10:49:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- airspace_qa_challenge.regression.test.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

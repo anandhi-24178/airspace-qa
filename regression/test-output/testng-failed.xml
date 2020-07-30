@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test verbose="2" name="Default test">
+    <classes>
+      <class name="airspace_qa_challenge.regression.test.LoginTest">
+        <methods>
+          <include name="testingSuccessfulLogin"/>
+        </methods>
+      </class> <!-- airspace_qa_challenge.regression.test.LoginTest -->
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Failed suite [Default suite] -->
